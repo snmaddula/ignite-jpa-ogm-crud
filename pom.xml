@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>snmaddula.ignite.ogm.crud</groupId>
-	<artifactId>ignite-ogm-crud</artifactId>
+	<artifactId>ignite-jpa-ogm-crud</artifactId>
 	<version>1.0</version>
 	<name>ignite-ogm-crud</name>
 	<description>Ignite JPA Crud implentation using Hibernate Ignite OGM</description>
