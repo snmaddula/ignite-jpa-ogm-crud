@@ -1,2 +1,2 @@
-# Inite OGM JPA Crud
+# Ignite OGM JPA Crud
 Ignite JPA Crud implentation using Hibernate Ignite OGM
